@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37484'
     url: http://www.gutenberg.org/2009/agents/37484
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35754#M-moire-sur-l-origine-Japonaise-Arabe-et-Basque-de-la-civilisation-des-peuples-du-plateau-de-_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2011-04-02'
 gutenberg_type: Text
